@@ -15,4 +15,4 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ### Álvaro Jordão
 
-### Linkedin: https://www.linkedin.com/in/devalvarojordao/
+
