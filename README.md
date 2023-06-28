@@ -11,6 +11,7 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 * Flex-box
 
+* Utilizei o Vercel para hospedar o portfólio, sem pagar por um domínio.
 ## Feito por:
 
 ### Álvaro Jordão
