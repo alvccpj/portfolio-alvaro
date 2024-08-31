@@ -133,4 +133,14 @@ body {
         width: auto;
     }
 
+    .custom-link {
+        color: white;
+        text-decoration: none;
+    }
+
+    .custom-link:hover {
+        color: blue;
+    }
+
+
 }
