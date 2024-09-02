@@ -136,10 +136,9 @@ body {
 
 .custom-link {
     color: white; /* Mantém a cor branca */
-    text-decoration: none; /* Remove o sublinhado padrão */
   }
   
   .custom-link:hover {
-    color: #FF5733; /* Substitua pelo código da cor que deseja ao passar o mouse */
+    color: #F1C376; /* Substitua pelo código da cor que deseja ao passar o mouse */
   }
   
