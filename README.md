@@ -1,7 +1,8 @@
 # Portfólio 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![portfolio issue](https://github.com/alvccpj/portfolio-alvaro/assets/103002592/7450ddbf-fec4-488e-bcb4-7c368bce4ba5)
+![image](https://github.com/user-attachments/assets/56025b3e-8589-4fcc-bfc2-0939d0c8ba5f)
+
 
 ## Ferramentas utilizadas:
 
